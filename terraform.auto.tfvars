@@ -1,0 +1,1 @@
+globalwsname = "sb_globalvar"
